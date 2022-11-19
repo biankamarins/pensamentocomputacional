@@ -1,1 +1,3 @@
-# pensamentocomputacional
+# pensamentocomputacioanal
+
+bianka marques marinsgithub.com
